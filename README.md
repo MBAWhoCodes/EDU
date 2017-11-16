@@ -1,18 +1,22 @@
 # TIL
-Capturing lessons learned across a variety of languages and technologies.
+Capturing lessons learned
 
 ---
 
 ### Categories
 
 * [Salesforce](#salesforce)
-
+* [Codewars](#codewars)
 
 ---
 
 ### Salesforce
 - [URL Hacking](salesforce/url_hacking.md)
 - [Conditionals] (salesforce/conditionals.md)
+
+### Codewars
+
+
 
 ### About
 ---

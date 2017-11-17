@@ -19,6 +19,6 @@ Capturing lessons learned
 
 ### About
 ---
-I found inspiration for this repository from [jbranchaud/til](jbranchaud/til) and [thoughtbot/til](thoughtbot/til).
+I found inspiration for this repository from [jbranchaud/til](https://github.com/jbranchaud/til) and [thoughtbot/til](https://github.com/thoughtbot/til).
 
 

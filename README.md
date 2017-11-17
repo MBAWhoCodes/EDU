@@ -12,11 +12,10 @@ Capturing lessons learned
 
 ### Salesforce
 - [URL Hacking](salesforce/url_hacking.md)
-- [Conditionals] (salesforce/conditionals.md)
+- [Conditionals](salesforce/conditionals.md)
 
 ### Codewars
-
-
+- [Friend or Foe](codewars/friend_or_foe.rb) 
 
 ### About
 ---

@@ -1,4 +1,4 @@
-# TIL
+# EDU
 Lessons learned
 
 ---

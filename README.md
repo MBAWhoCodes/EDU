@@ -7,7 +7,7 @@ Lessons learned
 
 * [Salesforce](#salesforce)
 * [Codewars](#codewars)
-* [Command Line](#commandline)
+* [Command Line](#command-line)
 
 ---
 

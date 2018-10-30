@@ -7,6 +7,7 @@ Lessons learned
 
 * [Salesforce](#salesforce)
 * [Codewars](#codewars)
+* [Command Line](#commandline)
 
 ---
 
@@ -15,7 +16,10 @@ Lessons learned
 - [Conditionals](salesforce/conditionals.md)
 
 ### Codewars
-- [Friend or Foe](codewars/friend_or_foe.rb) 
+- [Friend or Foe](codewars/friend_or_foe.rb)
+
+### Command Line
+- [Column Count](commandline/column_count.md) 
 
 ### About
 ---
